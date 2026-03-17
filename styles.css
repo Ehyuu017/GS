@@ -91,6 +91,11 @@ section { padding: 80px 20px; }
   align-items: center;
 }
 
+.story-layout h2 {
+  margin-bottom: 18px;
+  color: #1e3a8a;
+}
+
 .story-layout img { width: 100%; border-radius: 12px; }
 
 .story-section {
